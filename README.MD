@@ -12,6 +12,9 @@
   ![](http://7sbojw.com1.z0.glb.clouddn.com/AS_config_auto%20import.png)
 - 取消自动打开上次工程
   ![](http://7sbojw.com1.z0.glb.clouddn.com/AS_config_do%20not%20reopen%20last%20project%20on%20startup.png)
+- 右下角显示内存使用量，点击可释放内存（类似GC？）  
+  ![](http://7sbojw.com1.z0.glb.clouddn.com/AS_config_show_memory.png)
+
 
 ---
 - 推荐插件
